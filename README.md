@@ -1,6 +1,6 @@
 # Linux Commands, Bash Scripting & Process Programming
 
-A specialized systems programming project focused on Linux environment mastery, shell automation, and concurrent process management. This project was developed as **Assignment 2** for the **Software Development Tools & Systems Programming (PLH 211)** course at the **Technical University of Crete** (Winter Semester 2024-2025).
+A specialized systems programming project focused on Linux environment mastery, shell automation, and concurrent process management. This project was developed as **Assignment 2** for the **Software Development Tools & Systems Programming (PLH 211)** course at the **Technical University of Crete** (Winter 2024).
 
 ## 📌 Project Overview
 The objective of this project is to gain practical experience with the Linux command-line interface, automate complex workflows using Bash scripting, and implement multi-process applications in Python using system calls and inter-process communication.
